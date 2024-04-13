@@ -43,7 +43,7 @@ clear
     cd MetaXploit
 clear
     git pull
-    python2 MBF.py
+    python kelvinzmodz.py
 fi
 
 if [ $syut == "2" ]
